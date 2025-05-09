@@ -2,11 +2,8 @@
   {
     "name": "Motosofa",
     "desc": "Motsofa is a application which aims to manage the wastage in the proper way",
-    "image": "Clean",
+    "image": "https://thumbs.dreamstime.com/b/people-collecting-recycling-garbage-clean-city-environment-activist-campaign-vector-illustration-cartoon-characters-sorting-178490783.jpg",
     "category": "Waste",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
+    "links": {}
   }
 ]
