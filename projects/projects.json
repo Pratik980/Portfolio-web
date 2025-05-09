@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Motosofa",
+    "desc": "Motsofa is a application which aims to manage the wastage in the proper way",
+    "image": "Clean",
+    "category": "Waste",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
