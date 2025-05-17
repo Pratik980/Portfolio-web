@@ -77,7 +77,7 @@ var typed = new Typed(".typing-text", {
   strings: [
     "Frontend development",
     "Backend development",
-    "Canva designing",
+    "Data Analytics",
     "Web development",
   ],
   loop: true,
