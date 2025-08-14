@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Motosofa",
+    "desc": "MotoSafaa is a smart waste management system designed to improve how households and communities handle garbage. It uses technology to schedule timely waste collection, promote recycling, and raise awareness about keeping the environment clean. MotoSafaa makes waste management easier, faster, and more eco-friendly for everyone.",
+    "image": "motosofaa",
+    "category": "Waste",
+    "links": {}
+  },
+  {
+    "name": "GharNirman",
+    "desc": "Developed an AI-powered contractor bid evaluation and cost estimation system using Node.js and MongoDB to help project owners choose cost-effective contractors.",
+    "image": "gharnirman",
+    "category": "AI/Construction",
+    "links": {}
+  },
+  {
+    "name": "Bhabhya Sphere",
+    "desc": "Created an event management platform with real-time booking, notifications, analytics, and Google OAuth integration.",
+    "image": "bhabhya",
+    "category": "Event Management",
+    "links": {}
+  },
+  {
+    "name": "Student Portal",
+    "desc": "Built a portal for students to access records, materials, announcements, and attendance.",
+    "image": "studentportal",
+    "category": "Education",
+    "links": {}
+  },
+  {
+    "name": "Student Management System",
+    "desc": "Created a Java-based system integrated with an SQL database to manage student records, including enrollment, grades, and attendance, ensuring efficient data storage and retrieval.",
+    "image": "studentmanagement",
+    "category": "Education",
+    "links": {}
+  }
+]
